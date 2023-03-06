@@ -4,52 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c16cee92-2257-4a3e-99c8-68e57c0c7d85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/allure-notifications-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/draft.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/telegram.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Allure_Report.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Allure_TO.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Allure_TO_dashboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Allure_TO_results.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Allure_results.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Allure_steps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/GitHub.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Gradle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Idea.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/JUnit5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Java.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Jenkins.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Jenkins.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Selenide.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Selenoid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Telegram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/Telegram_bot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_resources/video.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/CustomApiListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lombok/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lombok/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/RequestDataModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/ResponseDataModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/RegressTestsWithModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Specs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/tpl/request.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/tpl/response.ftl" afterDir="false" />
+    <list default="true" id="c16cee92-2257-4a3e-99c8-68e57c0c7d85" name="Changes" comment="added tests">
+      <change afterPath="$PROJECT_DIR$/readme_resources/Allure_Report.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,12 +52,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/QA GURU/Diplom_API",
+    "last_opened_file_path": "C:/QA GURU/Diplom_API/readme_resources",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\QA GURU\Diplom_API\readme_resources" />
       <recent name="C:\QA GURU\Diplom_API" />
       <recent name="C:\QA GURU\Diplom_API\src\test" />
       <recent name="C:\QA GURU\Diplom_API\src\test\java" />
@@ -168,6 +127,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678121926214</updated>
     </task>
+    <task id="LOCAL-00001" summary="added tests">
+      <created>1678122641783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678122641783</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="added tests" />
   </component>
 </project>

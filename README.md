@@ -47,7 +47,7 @@
 2. Указать значения параметров и нажать кнопку ```Собрать```.
 3. Результат запуска сборки можно посмотреть в отчёте Allure.
 
-![](/readme_resources/Jenkins.png)
+![](/readme_resources/Allure_Report.png)
 
 После завершения сборки результаты тестирования доступны в:
 >- <code><strong>*Allure Report*</strong></code>
@@ -57,7 +57,7 @@
 ###  Основной Дашборд ###
 Для перехода к просмотру отчета в разделе "История сборок" нажать значок "Allure Report", откроется страница с отчетом по прохождению.
 
-![This is an image](/readme_resources/Allure_results.png)
+![This is an image](/readme_resources/Allure_dashboard.png)
 
 ###  Группировка тестов по проверяемому функционалу ###
 
