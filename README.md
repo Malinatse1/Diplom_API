@@ -1,5 +1,5 @@
 <h1 >Демопроект автоматизации тестирования API на <a href="https://reqres.in/">reqres.in</a></h1>
-## :maple_leaf: Содержание:
+##  Содержание:
 
 - Технологии и инструменты
 - Список проверок, реализованных в тестах
@@ -9,7 +9,7 @@
 - Интеграция с Atlassian Jira
 - Уведомление в Telegram о результатах прогона тестов
 
-## :maple_leaf:Технологии и инструменты
+## Технологии и инструменты
 
 <p  align="left"
 
@@ -61,12 +61,12 @@
 
 ###  Группировка тестов по проверяемому функционалу ###
 
-![This is an image](/readme_resources/Allure_steps.png)
+![This is an image](/readme_resources/Allure_step%20.png)
 ##  Уведомления в Telegram с использованием бота
 
 После завершения сборки, Вам будет отправлено уведомление в ```Telegram``` с отчетом о прохождении.
 
-![This is an image](/readme_resources/Telegram_bot.png)
+![This is an image](/readme_resources/Telegram_report.png)
 
 ## <img width="4%" title="Allure TestOPS" src="readme_resources/Allure_TO.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/18485)
 ### Основной дашборд
@@ -82,11 +82,4 @@
 </p>
 
 
-
-##  Пример запуска теста в Selenoid :film_strip:
-
-К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
-<p align="center">
-  <img title="Selenoid Video" src="readme_resources/video.gif">
-</p>
 
