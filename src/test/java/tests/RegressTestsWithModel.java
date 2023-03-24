@@ -1,8 +1,9 @@
 package tests;
+
 import models.ResponseDataModel;
 import models.RequestDataModel;
 import org.junit.jupiter.api.Test;
-
+import specs.Specs;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.is;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -29,7 +30,6 @@ public class RegressTestsWithModel extends TestBase  {
         assertEquals(response.getName(), testData.firstName);
         assertEquals(response.getJob(), testData.job);
     }
-
 
     @Test
     void updateUserTestWithLombok() {
